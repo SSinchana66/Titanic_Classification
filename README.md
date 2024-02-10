@@ -38,7 +38,7 @@ This project aims to build a predictive model to determine the likelihood of sur
 1. Clone the repository to your local machine:
 
    ```cmd
-   git clone https://github.com/your-username/titanic-classification.git
+   git https://github.com/SSinchana66/Titanic_Classification.git
    ```
 
 2. Navigate to the project directory:
