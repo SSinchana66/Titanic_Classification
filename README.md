@@ -37,14 +37,10 @@ This project aims to build a predictive model to determine the likelihood of sur
 
 1. Clone the repository to your local machine:
 
-   ```cmd
-   git https://github.com/SSinchana66/Titanic_Classification.git
-   ```
-
 2. Navigate to the project directory:
 
    ```cmd
-   cd titanic-classification
+   cd titanic_classification
    ```
 
 3. Launch Jupyter Notebook:
